@@ -67,7 +67,7 @@ double inmetning()
 
 void Division(double x, double y)
 {
-    if (x != 0 || y != 0)
+    if (y != 0)
     {
 
         Console.WriteLine($"Svaret är:{(double)x / (double)y}");
